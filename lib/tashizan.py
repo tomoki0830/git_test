@@ -6,4 +6,5 @@ wa = tashizan(a, b)
 c = 0;
 d =100;
 e = 50;
+f = 20;
 print("a + b =", wa)
